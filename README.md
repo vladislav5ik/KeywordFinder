@@ -1,6 +1,6 @@
 # Keyword Finder
 ### What's this?
-###### This program searches for keywords in the text. You can pass keywords to it for search, and it will return you the sentences you need with highlighted keywords.
+This program searches for keywords in the text. You can pass keywords to it for search, and it will return you the sentences you need with highlighted keywords.
 
 ### Usage
   - Put the file `in.txt` in the folder with the program
